@@ -6,8 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import warmok.warmok.R;
-import warmok.warmok.SignUpactivity;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -32,8 +31,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-    } // Main Method
 
-} // Main Class นี่คือคลาสหลัก
+    }    // Main Method
+
+}   // Main Class นี่คือ คลาสหลัก
 
 
